@@ -7,8 +7,8 @@
 
 Searching 
 
-1)Verilen örüntüye ait en küçük elamanı bulur en baştaki ile yer değiştirir.
-2)2. en küçük elamanı bulur 2. sıraya yerleştirir 
+1) Verilen örüntüye ait en küçük elamanı bulur en baştaki ile yer değiştirir.
+2) 2. en küçük elamanı bulur 2. sıraya yerleştirir 
 3) 3.en küçün elamanı bulur 3. sıraya yerleştirir
 4) 4.en küçün elamanı bulur 4. sıraya yerleştirir
 
@@ -25,6 +25,6 @@ Dizide 18 sayısını aramak worst case kapsamına girer çünkü böyle bir say
 2) [16] [21,11]    [8] [12,22]
 3) [16] [21] [11]  [8] [12] [22] 
 4) [11,16,21]  [8,12,22]
-5)[8,11,12,16,21,22]
+5) [8,11,12,16,21,22]
 
 O(nlogn)
