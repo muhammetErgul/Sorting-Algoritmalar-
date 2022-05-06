@@ -8,7 +8,7 @@
 Searching 
 
 1) Verilen örüntüye ait en küçük elamanı bulur en baştaki ile yer değiştirir.
-2) 2. en küçük elamanı bulur 2. sıraya yerleştirir 
+2) 2.en küçük elamanı bulur 2. sıraya yerleştirir 
 3) 3.en küçün elamanı bulur 3. sıraya yerleştirir
 4) 4.en küçün elamanı bulur 4. sıraya yerleştirir
 
