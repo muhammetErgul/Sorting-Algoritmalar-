@@ -28,3 +28,15 @@ Dizide 18 sayısını aramak worst case kapsamına girer çünkü böyle bir say
 5) [8,11,12,16,21,22]
 
 O(nlogn)
+
+## Proje 3 Binary Search Tree 
+
+[7,5,1,8,3,6,0,9,4,2]
+
+1) Root=5 
+2) sağında = [6,7,8,9] yeni root = 7 
+2) sağında = [8,9] solunda [6]      
+2) [8] [9]  7 nin sağında  [6] solunda
+
+3) solunda = [0,1,2,3,4] root =2
+3) sağında = [3,4] solunda = [0,1]
